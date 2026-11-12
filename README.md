@@ -27,7 +27,7 @@ git pull
 chmod +x FILE
 ./FILE
 
-___This Tools is free enjoy.___</br>
+___This Tools is Paid enjoy.___</br>
 
 TOOL NO RUN PYTHON 
 cd FILE
@@ -36,6 +36,6 @@ cd FILE
 RUN TOOL 👑👆
 ```
 
-___This Tools is free not paid enjoy.___</br>
+___This Tools is paid not free enjoy.___</br>
 
 ENJOY THIS TOOL=<img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="25">
